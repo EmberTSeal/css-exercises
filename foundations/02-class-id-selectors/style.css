@@ -1,0 +1,19 @@
+.default{
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.diff{
+    font-size: 24px;
+}
+
+#one{
+    color:rgb(70, 67, 255);
+    font-size: 36px;
+}
+
+#two{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(134, 230, 134);
+}
